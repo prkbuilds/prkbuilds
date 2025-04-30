@@ -15,11 +15,38 @@ Here are some ideas to get you started:
 
 <a href="https://x.com/prkbuild" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://in.linkedin.com/in/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-## Hi 👋 I am Pratik! 
-- 🔭 I am a Full Stack Developer, solving problems using tech-stack like Django, Node.js, React.js, GCP, and I’m currently working on Rust applications and building CLIs using Rust.
-- 🌱 I'm interested in Rust⚙️, python🐍, C++, Javascript, Web Development 🕸, Machine Learning 🤖. 
-- 👯 I enjoy working with ReactJs🔵, NodeJs🟢, Django🔴, Ratatui🟣 solving competitive code problems 🧮.
-- 📫 find me at [**📩 Email**](mailto:pfandade@buffalo.edu) [**👩‍🍳 Codechef**](https://www.codechef.com/users/raijin_codes),  [**🕊 Twitter**](https://x.com/prkbuild),  [**🔗 LinkedIn**](https://www.linkedin.com/in/pratikfandade/)
+# 👋 Hey, I'm Pratik
+
+I'm a passionate software engineer and open-source contributor currently pursuing my Master's in Computer Science. I love building scalable systems, clean UIs, and experimenting with bleeding-edge tech.
+
+### 🚀 What I Do
+- 🧠 Building products using **TypeScript**, **React Native**, **Rust**, and **Python**
+- 🔧 Working on systems-level code and **FPGA** (Verilog + Basys3)
+- 🌐 Contributing to OSS (Rust, Firebase, ML tooling)
+- 📱 Shipping full-stack apps with **Firebase**, **AWS**, and **Next.js**
+- 🧩 Exploring AI, compilers, and distributed systems
+
+<!--
+### 🌟 Featured Projects
+- 🏋️‍♂️ **[Redprint](https://github.com/prkbuilds/redprint)** – Fitness tracker with real-time analytics and Firebase integration
+- 🔌 **[FireCache](https://github.com/prkbuilds/firecache)** – Smart caching layer on top of Firestore for React Native apps
+- 🧪 **[ML Discriminants](https://github.com/prkbuilds/lda-qda-ml)** – Implementation of LDA/QDA from scratch with visualizations
+-->
+
+### 📚 Currently Learning
+- Compiler design & low-level optimizations
+- Cloud-native architecture with Kubernetes
+- CUDA and GPU-based parallelism
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratikfandade)
+- 🐦 [Twitter](https://twitter.com/prkbuilds)
+- 📬 Email: pratikfandade@gmail.com
+
+---
+
+> “Code is poetry, performance is rhythm.”
+
 
 ---
 <p align = "center">
