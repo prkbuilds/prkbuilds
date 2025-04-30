@@ -41,7 +41,7 @@ I'm a passionate software engineer and open-source contributor currently pursuin
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratikfandade)
 - 🐦 [Twitter](https://twitter.com/prkbuilds)
-- 📬 Email: pratikfandade@gmail.com
+- 📬 Email: fandadep6@gmail.com
 
 ---
 
