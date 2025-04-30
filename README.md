@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://x.com/prkbuild" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://in.linkedin.com/in/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" /></a>
+<a href="https://x.com/prkbuild" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/twitter-x.svg" /></a><a href="https://in.linkedin.com/in/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" /></a><a href="https://www.instagram.com/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" /></a>
 
 # 👋 Hey, I'm Pratik
 
