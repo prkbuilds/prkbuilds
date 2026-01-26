@@ -21,7 +21,8 @@ I'm a passionate software engineer and open-source contributor currently pursuin
 
 ### 🚀 What I Do
 - 🧠 Building products using **TypeScript**, **React Native**, **Rust**, and **Python**
-- 🔧 Working on systems-level code and **FPGA** (Verilog + Basys3)
+- 🔧 Studied systems-level code and **FPGA** (Verilog + Basys3)
+- 🔌 Worked on projects directly related to **Linux OS** development and **CassandraDB** (PintosOS + TacoDB)
 - 🌐 Contributing to OSS (Rust, Firebase, ML tooling)
 - 📱 Shipping full-stack apps with **Firebase**, **AWS**, and **Next.js**
 - 🧩 Exploring AI, compilers, and distributed systems
@@ -40,13 +41,12 @@ I'm a passionate software engineer and open-source contributor currently pursuin
 
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratikfandade)
-- 🐦 [Twitter](https://twitter.com/prkbuilds)
-- 📬 Email: fandadep6@gmail.com
+- 🐦 [x.com](https://x.com/prkbuilds)
+- 📬 Email: [fandadep6@gmail.com](mailto:fandadep6@gmail.com)
 
 ---
 
 > “Code is poetry, performance is rhythm.”
-
 
 ---
 <p align = "center">
