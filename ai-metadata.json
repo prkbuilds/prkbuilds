@@ -1,0 +1,39 @@
+{
+  "type": "developer_profile",
+  "handle": "prkbuilds",
+  "headline": "Backend / Infra Engineer — Go, Rust, C++",
+  "focus_areas": ["distributed-systems", "observability", "systems-performance", "developer-tooling"],
+  "primary_languages": ["Go", "Rust", "C++", "TypeScript"],
+  "keywords": [
+    "OpenTelemetry", "gRPC", "tracing", "Prometheus", "Grafana",
+    "eBPF", "Raft", "consensus", "replication", "reliability"
+  ],
+  "best_entry_points": [
+    {
+      "name": "otel-ai-go",
+      "why": "Drop-in Go HTTP/gRPC middleware emitting OTel GenAI spans/events (tool calls, multi-turn).",
+      "read_first": ["README", "examples/", "pkg/middleware", "docs/"]
+    },
+    {
+      "name": "KernelScope",
+      "why": "Linux process monitor using eBPF + Prometheus + Grafana for performance debugging workflows.",
+      "read_first": ["README", "bpf/", "collector/", "dashboards/"]
+    },
+    {
+      "name": "raft-kv",
+      "why": "Raft-based KV store in Go (correctness, failure handling, replication).",
+      "read_first": ["README", "docs/", "tests/"]
+    }
+  ],
+  "hiring_targets": [
+    "backend-engineer",
+    "infrastructure-engineer",
+    "platform-engineer",
+    "distributed-systems-engineer",
+    "observability-engineer"
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/pratikfandade/",
+    "email": "fandadep6@gmail.com"
+  }
+}
