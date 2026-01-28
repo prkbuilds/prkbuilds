@@ -13,43 +13,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://x.com/prkbuild" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/twitter-x.svg" /></a><a href="https://in.linkedin.com/in/pratikfandade" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" /></a><a href="https://www.instagram.com/prik.fnd" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" /></a>
+# prkbuilds
 
-# 👋 Hey, I'm Pratik
+I build backend + infrastructure software: distributed systems, observability, and developer tooling.
+Open to Backend / Infra / Platform / Distributed Systems roles (Go, C++, Rust).
 
-I'm a passionate software engineer and open-source contributor currently pursuing my Master's in Computer Science. I love building scalable systems, clean UIs, and experimenting with bleeding-edge tech.
+## What I’m focused on
+- Observability middleware for GenAI systems (OpenTelemetry, tracing conventions, tool-call spans)
+- Distributed systems primitives (Raft, replication, consistency, failure handling)
+- Systems monitoring (eBPF, Prometheus, Grafana) and performance debugging
 
-### 🚀 What I Do
-- 🧠 Building products using **TypeScript**, **React Native**, **Rust**, and **Python**
-- 🔧 Studied systems-level code and **FPGA** (Verilog + Basys3)
-- 🔌 Worked on projects directly related to **Linux OS** development and **CassandraDB** (PintosOS + TacoDB)
-- 🌐 Contributing to OSS (Rust, Firebase, ML tooling)
-- 📱 Shipping full-stack apps with **Firebase**, **AWS**, and **Next.js**
-- 🧩 Exploring AI, compilers, and distributed systems
+## Featured projects
+- otel-ai-go
+  Drop-in Go HTTP + gRPC middleware that emits OpenTelemetry GenAI spans/events/attributes, including tool calls and multi-turn traces.
+  Repo: https://github.com/prkbuilds/otel-ai-go
 
-<!--
-### 🌟 Featured Projects
-- 🏋️‍♂️ **[Redprint](https://github.com/prkbuilds/redprint)** – Fitness tracker with real-time analytics and Firebase integration
-- 🔌 **[FireCache](https://github.com/prkbuilds/firecache)** – Smart caching layer on top of Firestore for React Native apps
-- 🧪 **[ML Discriminants](https://github.com/prkbuilds/lda-qda-ml)** – Implementation of LDA/QDA from scratch with visualizations
--->
+- KernelScope
+  Linux process monitor using C++ + eBPF + Prometheus + Grafana, built for “why is my CPU spiking?” style debugging.
+  Repo: https://github.com/prkbuilds/KernelScope
 
-### 📚 Currently Learning
-- Compiler design & low-level optimizations
-- Cloud-native architecture with Kubernetes
-- CUDA and GPU-based parallelism
+- Raft KV store (from scratch)
+  A Raft-based distributed key-value store in Go using gRPC, focused on correctness and failure scenarios.
+  Repo: https://github.com/prkbuilds/raft-kv
 
-### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pratikfandade)
-- 🐦 [x.com](https://x.com/prkbuilds)
-- 📬 Email: [fandadep6@gmail.com](mailto:fandadep6@gmail.com)
+## Tech I use
+- Languages: Go, Rust, C++, TypeScript
+- Infra: gRPC, REST, OpenTelemetry, Prometheus, Grafana
+- Systems: Linux, eBPF
+- Cloud/DevOps: Docker, CI/CD (GitHub Actions), AWS basics
 
----
+## How I build
+- Ship small, iterate fast, and measure impact (latency, p95/p99, error rates, cost)
+- Prefer clean APIs, boring reliability, and great docs
+- Tests for correctness first, benchmarks for performance second
 
-> “Code is poetry, performance is rhythm.”
+## What I’m looking for
+Teams building:
+- platform foundations (infra, shared services, orchestration, caching, storage)
+- observability/monitoring stacks
+- high-reliability backend systems
 
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prkbuilds&show_icons=true&theme=dark&icon_color=ff8700&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prkbuilds&theme=dark&hide_border=true" width = 400>
-</p>
+If you’re hiring for these, I’m happy to chat.
+
+## Contact
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratikfandade)
+- Email: [fandadep6@gmail.com](mailto:fandadep6@gmail.com)
+
+## Notes
+If you’re browsing my repos, start with the pinned ones above.
+
+```
+AI metadata: see ai-metadata.json (entry points, keywords, what to read first).
+```
