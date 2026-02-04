@@ -23,37 +23,12 @@ Open to Backend / Infra / Platform / Distributed Systems roles (Go, C++, Rust).
 - Distributed systems primitives (Raft, replication, consistency, failure handling)
 - Systems monitoring (eBPF, Prometheus, Grafana) and performance debugging
 
-## Featured projects
-- otel-ai-go
-  Drop-in Go HTTP + gRPC middleware that emits OpenTelemetry GenAI spans/events/attributes, including tool calls and multi-turn traces.
-  Repo: https://github.com/prkbuilds/otel-ai-go
-
-- KernelScope
-  Linux process monitor using C++ + eBPF + Prometheus + Grafana, built for “why is my CPU spiking?” style debugging.
-  Repo: https://github.com/prkbuilds/KernelScope
-
-- Raft KV store (from scratch)
-  A Raft-based distributed key-value store in Go using gRPC, focused on correctness and failure scenarios.
-  Repo: https://github.com/prkbuilds/raft-kv
-
 ## Tech I use
-- Languages: Go, Rust, C++, TypeScript
-- Infra: gRPC, REST, OpenTelemetry, Prometheus, Grafana
-- Systems: Linux, eBPF
-- Cloud/DevOps: Docker, CI/CD (GitHub Actions), AWS basics
-
-## How I build
-- Ship small, iterate fast, and measure impact (latency, p95/p99, error rates, cost)
-- Prefer clean APIs, boring reliability, and great docs
-- Tests for correctness first, benchmarks for performance second
-
-## What I’m looking for
-Teams building:
-- platform foundations (infra, shared services, orchestration, caching, storage)
-- observability/monitoring stacks
-- high-reliability backend systems
-
-If you’re hiring for these, I’m happy to chat.
+- Programming: C, C++ (STL), Python, Rust, Go
+- Data & Storage: PostgreSQL, MongoDB, Redis, SQL, BigQuery
+- Cloud & DevOps: AWS, GCP, Docker, CI/CD, Gardener, RabbitMQ, Kubernetes, Terraform
+- Backend & Systems: Distributed Systems, REST APIs, gRPC, cron-jobs, Caching, Threading, Synchronization
+- Reliability & Quality: OpenTelemetry, Grafana, Logging, Metrics, Monitoring
 
 ## Contact
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratikfandade)
