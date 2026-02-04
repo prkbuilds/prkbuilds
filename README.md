@@ -33,10 +33,3 @@ Open to Backend / Infra / Platform / Distributed Systems roles (Go, C++, Rust).
 ## Contact
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratikfandade)
 - Email: [fandadep6@gmail.com](mailto:fandadep6@gmail.com)
-
-## Notes
-If you’re browsing my repos, start with the pinned ones above.
-
-```
-AI metadata: see ai-metadata.json (entry points, keywords, what to read first).
-```
