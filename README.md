@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# prkbuilds
+# Hey, I'm Pratik 👋
 
 I build backend + infrastructure software: distributed systems, observability, and developer tooling.
 Open to Backend / Infra / Platform / Distributed Systems roles (Go, C++, Rust).
